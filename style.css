@@ -1,0 +1,44 @@
+body{
+
+  font-family: 'Yeseva One', cursive;
+  
+}
+
+h1{
+  font-size: 50px;
+}
+.head-color{
+  color: #FFAD5A;
+}
+.title-div{
+  height: 160px;
+  width: 520px;
+  border-left: 4px solid #FF5959;
+  border-radius: 1px;
+ 
+}
+
+#top-pera{
+
+  font-family: 'roboto', light;
+}
+section{
+  display: flex;
+}
+.half-width{
+  width: 50%;
+}
+.half-width img{
+  width: 63%;
+  padding-top: 10%;
+  padding-left: 15%;
+}
+.first-button{
+  text-decoration: none;
+  color: white;
+  background-color: #FF5959;
+  font-family: 'roboto',regular;
+  font-size: 20px;
+  padding: 10px 10px;
+  border-radius: 5px;
+}
