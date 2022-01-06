@@ -143,3 +143,22 @@ h2{
   padding: 10px 30px;
   border-radius: 5px;
 }
+#img-3{
+  width: 70%;
+  padding-top: 6%;
+  padding-left: 15%;
+}
+#sec-4{
+  padding-top: 5%;
+  background-image: url(images/shape-1.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 15%;
+  background-position-y: 110%;
+ 
+
+}
+#sec-4-div-1{
+  padding-left: 4%;
+  padding-top: 2%;
+}
