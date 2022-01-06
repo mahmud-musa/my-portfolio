@@ -35,7 +35,7 @@ section{
 }
 .half-width img{
   width: 63%;
-  padding-top: 10%;
+  padding-top: 2%;
   padding-left: 15%;
 }
 .first-button{
@@ -47,3 +47,58 @@ section{
   padding: 10px 10px;
   border-radius: 5px;
 }
+#second-sec{
+  text-align: center;
+  font-family: 'roboto', bold;
+}
+#second-title{
+  color: #FFAD5A;
+}
+
+
+.illu{
+  height: 141px;
+  width: 141px;
+  padding-top: 2%;
+  padding-left: 5%;
+}
+#mis{
+ background-color:rgba(79, 157, 166, 10%);
+ border-radius: 2%;
+ height: 376px;
+ width: 360px;
+ margin-left: 20px;
+ margin-right: 20px;
+}
+#vis{
+  background-color:rgba(255, 89, 89, 10%);
+  border-radius: 2%;
+  height: 376px;
+  width: 360px;
+  margin-left: 20px;
+  margin-right: 20px;
+ }
+ #gol{
+  background-color:rgba(255, 244, 214, 100%);
+  border-radius: 2%;
+  height: 376px;
+  width: 360px;
+  margin-left: 20px;
+  margin-right: 20px;
+ }
+ h3{
+   font-family: "Roboto", bold;
+   margin-left: 4%;
+   font-size: 30px;
+ }
+ .des{
+   font-family: "roboto",regular;
+   padding-left: 4%;
+ }
+ #mis-vis-gol{
+   display: flex;
+   margin-left: 10%;
+
+
+ }
+ 
